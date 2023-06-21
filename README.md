@@ -3,11 +3,11 @@
 # Thunderbird Conversations
 
 This extension improves the threaded summary for emails in Thunderbird. It
-vastly improves the UI by including some ideas from GMail. More specifically:
+vastly improves the UI by including some ideas from Gmail. More specifically:
 
 - your own messages are displayed in the thread,
 - you initially see summaries, they can be expanded to display full messages,
-- quoted sections are collapsed à la GMail,
+- quoted sections are collapsed à la Gmail,
 - fast links for replying (and possibly other useful actions),
 - you can reply inline (through a "quick reply" feature).
 
